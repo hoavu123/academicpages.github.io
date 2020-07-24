@@ -27,11 +27,10 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-$custom                     : "Palatino Linotype", "Book Antiqua", Palatino, serif
 
-$global-font-family         : $custom;
-$header-font-family         : $custom;
-$caption-font-family        : $custom;
+$global-font-family         : $monospace;
+$header-font-family         : $monospace;
+$caption-font-family        : $monospace;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
