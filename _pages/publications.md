@@ -33,10 +33,10 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
 
 * Run Generation Revisited: What Goes Up May or May Not Come Down. **ISAAC 2015**. Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1504.06501).
 
-* Manifold Warping: Manifold Alignment over Time. **AAA 2012**. Hoa T. Vu, CJ Carey, and Sridhar Mahadevan. [[conf-version]](/files/aaai12.pdf).
+* Manifold Warping: Manifold Alignment over Time. **AAAI 2012**. Hoa T. Vu, CJ Carey, and Sridhar Mahadevan. [[conf-version]](/files/aaai12.pdf).
 
 ## Thesis 
 
-* Data Stream Algorithms for Large Graphs and High Dimensional Data. [ScholarWorks](https://scholarworks.umass.edu/dissertations_2/1404/).
+* Data Stream Algorithms for Large Graphs and High Dimensional Data. [[ScholarWorks]](https://scholarworks.umass.edu/dissertations_2/1404/).
 
 
