@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hoa T. Vu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-## Hoa T. Vu
-I am an Assistant Professor in Computer Science at [San Diego State University](https://www.sdsu.edu/). 
+Hi! I am an Assistant Professor in Computer Science at [San Diego State University](https://www.sdsu.edu/). 
 
 My current research focuses on the design and analysis of algorithms with a focus on problems that arise in streaming and distributed settings. Some topics include graph algorithms, approximation algorithms, and sketching algorithms. 
 
