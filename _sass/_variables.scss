@@ -27,10 +27,11 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$custom                      :"Lucida Console", Monaco, monospace
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $custom;
+$header-font-family         : $custom;
+$caption-font-family        : $custom;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
