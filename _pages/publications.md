@@ -9,23 +9,15 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
 
 ## Papers
 
-On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**. 
+* On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**. David Harris, Hsin-Hao Su, and Hoa T. Vu. 
 
-David Harris, Hsin-Hao Su, and Hoa T. Vu. 
+* Maximum Coverage in the Data Stream Model: Parameterized and Generalized. **In submission**. Andrew McGregor, David Tench, and Hoa T. Vu.
 
-Maximum Coverage in the Data Stream Model: Parameterized and Generalized. **In submission**. 
+* Streaming Algorithms for Maximum Satisfiability. **In submission**. Hoa T. Vu.  
 
-Andrew McGregor, David Tench, and Hoa T. Vu.
+* Distributed Dense Subgraph Detection and Low Outdegree Orientation.**DISC 2020**. Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1907.12443).
 
-Streaming Algorithms for Maximum Satisfiability. **In submission**. 
-
-Hoa T. Vu.  
-
-Distributed Dense Subgraph Detection and Low Outdegree Orientation.**DISC 2020**. 
-Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1907.12443).
-
-Distributed Data Summarization in Well-Connected Networks. **DISC 2019**. 
-Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1908.00236).
+* Distributed Data Summarization in Well-Connected Networks. **DISC 2019**. Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1908.00236).
 
 * Towards the Locality of Vizing's Theorem. **STOC 219**. Hsin-Hao Su and Hoa T. Vu. [[conf-version]](/files/stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
 
