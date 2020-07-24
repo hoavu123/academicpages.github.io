@@ -1,12 +1,11 @@
 ---
+title:
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-
-## Papers 
+## Papers
 
 
 On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**. David Harris, Hsin-Hao Su, and Hoa T. Vu. 
