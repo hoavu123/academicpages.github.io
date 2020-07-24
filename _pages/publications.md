@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: ""
 layout: archive
 permalink: /publications/
 author_profile: true
@@ -7,6 +7,7 @@ author_profile: true
 
 Authors are in **alphabetical order** per tradition of theoretical computer science.
 
+## Papers
 
 On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**. David Harris, Hsin-Hao Su, and Hoa T. Vu. 
 
