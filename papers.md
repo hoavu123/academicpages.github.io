@@ -11,7 +11,7 @@ On the Locality of Approximate Nash-Williams Forest Decomposition. **In submissi
 
 Maximum Coverage in the Data Stream Model: Parameterized and Generalized. **In submission**. Andrew McGregor, David Tench, and Hoa T. Vu.
 
-Streaming Algorithms for Maximum Satisfiability. **In submission**. Hoa T. Vu.
+Streaming Algorithms for Maximum Satisfiability. **In submission**. Hoa T. Vu.  
 
 Distributed Dense Subgraph Detection and Low Outdegree Orientation. **DISC 2020**. Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1907.12443).
 
