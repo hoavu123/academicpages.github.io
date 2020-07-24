@@ -20,7 +20,7 @@ Distributed Data Summarization in Well-Connected Networks. **DISC 2019**. Hsin-H
 
 Towards the Locality of Vizing's Theorem. **STOC 219**. Hsin-Hao Su and Hoa T. Vu. [[conf-version]](/files/stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
 
-Finding Subcube Heavy Hitters in Analytics Data Streams. **WWW 2018**. Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu. and Yikun Xian. [[conf-version]](files/www18.pdf), [[arXiv]](https://arxiv.org/abs/1708.05159).
+Finding Subcube Heavy Hitters in Analytics Data Streams. **WWW 2018**. Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu. and Yikun Xian. [[conf-version]](/files/www18.pdf), [[arXiv]](https://arxiv.org/abs/1708.05159).
 
 Better Streaming Algorithms for the Maximum Coverage Problem. **ICDT 2017 & Theory of Computing System**. Andrew McGregor, and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1610.06199).
 
