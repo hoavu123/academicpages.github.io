@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Papers"
-permalink: /papers/
-author_profile: true
----
 
 ## Papers 
 
