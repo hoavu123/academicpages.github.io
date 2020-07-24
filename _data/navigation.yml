@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Papers"
-    url: papers.html
+    url: /papers.html
 
   - title: "Teaching"
-    url: teaching.html   
+    url: /teaching.html   
     
   - title: "Misc"
-    url: misc.html
+    url: /misc.html
