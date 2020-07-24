@@ -4,7 +4,7 @@ main:
     url: papers.html
 
   - title: "Teaching"
-    url: /teaching/    
+    url: teaching.html   
     
   - title: "Misc"
-    url: /misc/
+    url: misc.html
