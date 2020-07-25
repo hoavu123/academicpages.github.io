@@ -24,7 +24,7 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
 * Distributed Data Summarization in Well-Connected Networks. **DISC 2019**.  
   Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1908.00236).
 
-* Towards the Locality of Vizing's Theorem. **STOC 219**.  
+* Towards the Locality of Vizing's Theorem. **STOC 2019**.  
   Hsin-Hao Su and Hoa T. Vu. [[conf-version]](/files/stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
 
 * Finding Subcube Heavy Hitters in Analytics Data Streams. **WWW 2018**.  
