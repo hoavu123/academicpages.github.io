@@ -9,7 +9,8 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
 
 ## Papers
 
-* On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**. David Harris, Hsin-Hao Su, and Hoa T. Vu. 
+* On the Locality of Approximate Nash-Williams Forest Decomposition. **In submission**.  
+  David Harris, Hsin-Hao Su, and Hoa T. Vu. 
 
 * Maximum Coverage in the Data Stream Model: Parameterized and Generalized. **In submission**. Andrew McGregor, David Tench, and Hoa T. Vu.
 
