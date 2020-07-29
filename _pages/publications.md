@@ -22,7 +22,7 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
   Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1907.12443).
 
 * Distributed Data Summarization in Well-Connected Networks. **DISC 2019**.  
-  Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1908.00236).
+  Hsin-Hao Su and Hoa T. Vu. [[/files/disc-2019.pdf]](conf-version),[[arXiv]](https://arxiv.org/abs/1908.00236).
 
 * Towards the Locality of Vizing's Theorem. **STOC 2019**.  
   Hsin-Hao Su and Hoa T. Vu. [[conf-version]](/files/stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
