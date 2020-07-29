@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an Assistant Professor in Computer Science at [San Diego State University](https://www.sdsu.edu/). 
 
-My current research focuses on the design and analysis of algorithms with a focus on problems that arise in streaming and distributed settings. Some topics include graph algorithms, approximation algorithms, and sketching algorithms. 
+My current research focuses on the design and analysis of algorithms with an emphasis on problems that arise in streaming and distributed settings. Some topics include graph algorithms, approximation algorithms, and sketching algorithms. 
 
 For more details, check out my [research papers](publications), [CV](/files/CV.pdf), and [Google Scholar](https://scholar.google.com/citations?user=C3qZIn8AAAAJ&hl=en). 
 
