@@ -38,10 +38,10 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
   Andrew McGregor, Sofya Vorotnikova, and Hoa T. Vu [[conf-version]](/files/pods16.pdf)
 
 * Densest Subgraph in Dynamic Graph Streams **(MFCS 2015)**  
-  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1506.04417).
+  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1506.04417).
 
 * Evaluating Bayesian Networks via Data Streams **(COCOON 2015)**  
-  Andrew McGregor, and Hoa T. Vu. [[conf-version]](/files/cocoon15.pdf)
+  Andrew McGregor, and Hoa T. Vu [[conf-version]](/files/cocoon15.pdf)
 
 * Run Generation Revisited: What Goes Up May or May Not Come Down **(ISAAC 2015)**  
   Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1504.06501).
