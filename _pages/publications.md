@@ -28,7 +28,7 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
   Hsin-Hao Su and Hoa T. Vu [[conf-version]](/files/stoc19.pdf) [[arXiv]](https://arxiv.org/abs/1901.00479)
 
 * Finding Subcube Heavy Hitters in Analytics Data Streams **(WWW 2018)**  
-  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian [[conf-version]](/files/www18.pdf) [[arXiv]](https://arxiv.org/abs/1708.05159)
+  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian [[arXiv]](https://arxiv.org/abs/1708.05159)
 
 * Better Streaming Algorithms for the Maximum Coverage Problem **(ICDT 2017)**  
   Journal version: Special Issue of Theory of Computing Systems  
@@ -38,13 +38,13 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
   Andrew McGregor, Sofya Vorotnikova, and Hoa T. Vu [[conf-version]](/files/pods16.pdf)
 
 * Densest Subgraph in Dynamic Graph Streams **(MFCS 2015)**  
-  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1506.04417).
+  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1506.04417)
 
 * Evaluating Bayesian Networks via Data Streams **(COCOON 2015)**  
   Andrew McGregor, and Hoa T. Vu [[conf-version]](/files/cocoon15.pdf)
 
 * Run Generation Revisited: What Goes Up May or May Not Come Down **(ISAAC 2015)**  
-  Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1504.06501).
+  Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1504.06501)
 
 * Manifold Warping: Manifold Alignment over Time **(AAAI 2012)**  
   Hoa T. Vu, CJ Carey, and Sridhar Mahadevan [[conf-version]](/files/aaai12.pdf)
