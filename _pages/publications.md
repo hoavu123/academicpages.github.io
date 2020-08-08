@@ -11,13 +11,13 @@ Click on paper titles for links.
 
 ## Papers
 
-* On the Locality of Approximate Nash-Williams Forest Decomposition **(in submission)**    
+* [On the Locality of Approximate Nash-Williams Forest Decomposition] (in submission)    
   David Harris, Hsin-Hao Su, and Hoa T. Vu 
 
-* Maximum Coverage in the Data Stream Model: Parameterized and Generalized **(in submission)**    
+* [Maximum Coverage in the Data Stream Model: Parameterized and Generalized] (in submission)    
   Andrew McGregor, David Tench, and Hoa T. Vu
 
-* [Streaming Algorithms for Maximum Satisfiability](/files/streaming-max-sat.pdf)  **(in submission)**  
+* [Streaming Algorithms for Maximum Satisfiability](/files/streaming-max-sat.pdf) (in submission)  
   Hoa T. Vu 
 
 * [Distributed Dense Subgraph Detection and Low Outdegree Orientation](https://arxiv.org/abs/1907.12443) (DISC 2020)  
