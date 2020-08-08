@@ -11,10 +11,10 @@ Click on paper titles for links.
 
 ## Papers
 
-* [On the Locality of Approximate Nash-Williams Forest Decomposition] (in submission)    
+* On the Locality of Approximate Nash-Williams Forest Decomposition (in submission)    
   David Harris, Hsin-Hao Su, and Hoa T. Vu 
 
-* [Maximum Coverage in the Data Stream Model: Parameterized and Generalized] (in submission)    
+* Maximum Coverage in the Data Stream Model: Parameterized and Generalized (in submission)    
   Andrew McGregor, David Tench, and Hoa T. Vu
 
 * [Streaming Algorithms for Maximum Satisfiability](/files/streaming-max-sat.pdf) (in submission)  
