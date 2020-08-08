@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Assistant Professor in Computer Science at [San Diego State University](https://www.sdsu.edu/). 
+Hi! I am an Assistant Professor in Computer Science at <a href="https://www.sdsu.edu/">San Diego State University</a>. 
 
 My current research focuses on the design and analysis of algorithms with an emphasis on problems that arise in streaming and distributed settings. Some topics include graph algorithms, approximation algorithms, and sketching algorithms. 
 
