@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Authors are in **alphabetical order** per tradition of theoretical computer science.
+Authors are in **alphabetical order** per tradition of theoretical computer science.  
 Copyright of each paper belongs to the respective publisher; local copies are for personal use only. 
 
 ## Papers
@@ -16,42 +16,42 @@ Copyright of each paper belongs to the respective publisher; local copies are fo
 * Maximum Coverage in the Data Stream Model: Parameterized and Generalized **(In submission)**    
   Andrew McGregor, David Tench, and Hoa T. Vu
 
-* Streaming Algorithms for Maximum Satisfiability **(In submission)**  
-  Hoa T. Vu [[local-copy]](/files/streaming-max-sat.pdf)  
+* [Streaming Algorithms for Maximum Satisfiability](/files/streaming-max-sat.pdf)  **(In submission)**  
+  Hoa T. Vu 
 
-* Distributed Dense Subgraph Detection and Low Outdegree Orientation **(DISC 2020)**  
-  Hsin-Hao Su and Hoa T. Vu [[arxiv]](https://arxiv.org/abs/1907.12443)
+* [Distributed Dense Subgraph Detection and Low Outdegree Orientation](https://arxiv.org/abs/1907.12443) **(DISC 2020)**  
+  Hsin-Hao Su and Hoa T. Vu 
 
-* Distributed Data Summarization in Well-Connected Networks **(DISC 2019)**  
-  Hsin-Hao Su and Hoa T. Vu [[conference-version]](https://drops.dagstuhl.de/opus/volltexte/2019/11340/pdf/LIPIcs-DISC-2019-33.pdf) [[arxiv]](https://arxiv.org/abs/1908.00236)  
+* [Distributed Data Summarization in Well-Connected Networks](https://arxiv.org/abs/1908.00236)   **(DISC 2019)**  
+  Hsin-Hao Su and Hoa T. Vu 
+  
+* [Towards the Locality of Vizing's Theorem](https://arxiv.org/abs/1901.00479) **(STOC 2019)**  
+  Hsin-Hao Su and Hoa T. Vu 
 
-* Towards the Locality of Vizing's Theorem **(STOC 2019)**  
-  Hsin-Hao Su and Hoa T. Vu [[conference-version]](/files/stoc19.pdf) [[arxiv]](https://arxiv.org/abs/1901.00479)
+* [Finding Subcube Heavy Hitters in Analytics Data Streams](https://arxiv.org/abs/1708.05159) **(WWW 2018)**  
+  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian 
 
-* Finding Subcube Heavy Hitters in Analytics Data Streams **(WWW 2018)**  
-  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian [[arxiv]](https://arxiv.org/abs/1708.05159)
-
-* Better Streaming Algorithms for the Maximum Coverage Problem **(ICDT 2017)**  
+* [Better Streaming Algorithms for the Maximum Coverage Problem](https://arxiv.org/abs/1610.06199) **(ICDT 2017)**  
   Journal version: Special Issue of Theory of Computing Systems  
-  Andrew McGregor, and Hoa T. Vu [[arxiv]](https://arxiv.org/abs/1610.06199)
+  Andrew McGregor, and Hoa T. Vu 
 
-* Better Algorithms for Counting Triangles in Data Streams **(PODS 2016)**  
-  Andrew McGregor, Sofya Vorotnikova, and Hoa T. Vu [[conference-version]](/files/pods16.pdf)
+* [Better Algorithms for Counting Triangles in Data Streams](/files/pods16.pdf) **(PODS 2016)**  
+  Andrew McGregor, Sofya Vorotnikova, and Hoa T. Vu 
 
-* Densest Subgraph in Dynamic Graph Streams **(MFCS 2015)**  
-  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu [[arxiv]](https://arxiv.org/abs/1506.04417)
+* [Densest Subgraph in Dynamic Graph Streams](https://arxiv.org/abs/1506.04417) **(MFCS 2015)**  
+  Andrew McGregor, David Tench, Sofya Vorotnikova, and Hoa T. Vu 
 
-* Evaluating Bayesian Networks via Data Streams **(COCOON 2015)**  
-  Andrew McGregor, and Hoa T. Vu [[conference-version]](/files/cocoon15.pdf)
+* [Evaluating Bayesian Networks via Data Streams](/files/cocoon15.pdf) **(COCOON 2015)**  
+  Andrew McGregor, and Hoa T. Vu 
 
-* Run Generation Revisited: What Goes Up May or May Not Come Down **(ISAAC 2015)**  
-  Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu [[arxiv]](https://arxiv.org/abs/1504.06501)
+* [Run Generation Revisited: What Goes Up May or May Not Come Down](https://arxiv.org/abs/1504.06501) **(ISAAC 2015)**  
+  Michael A. Bender, Samuel McCauley, Andrew McGregor, Shikha Singh, and Hoa T. Vu 
 
-* Manifold Warping: Manifold Alignment over Time **(AAAI 2012)**  
-  Hoa T. Vu, CJ Carey, and Sridhar Mahadevan [[conference-version]](/files/aaai12.pdf)
+* [Manifold Warping: Manifold Alignment over Time](/files/aaai12.pdf) **(AAAI 2012)**  
+  Hoa T. Vu, CJ Carey, and Sridhar Mahadevan 
 
 ## Thesis 
 
-* Data Stream Algorithms for Large Graphs and High Dimensional Data [[ScholarWorks]](https://scholarworks.umass.edu/dissertations_2/1404/)
+* [Data Stream Algorithms for Large Graphs and High Dimensional Data](https://scholarworks.umass.edu/dissertations_2/1404/)
 
 
