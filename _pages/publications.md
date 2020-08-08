@@ -20,7 +20,7 @@ Click on paper titles for links.
 * [Streaming Algorithms for Maximum Satisfiability](/files/streaming-max-sat.pdf) (in submission)  
   Hoa T. Vu 
 
-* [Distributed Dense Subgraph Detection and Low Outdegree Orientation](https://arxiv.org/abs/1907.12443) (DISC 2020)  
+* [Distributed Dense Subgraph Detection and Low Outdegree Orientation](https://arxiv.org/abs/1907.12443) (<u>DISC 2020</u>)  
   Hsin-Hao Su and Hoa T. Vu 
 
 * [Distributed Data Summarization in Well-Connected Networks](https://arxiv.org/abs/1908.00236) (DISC 2019)  
