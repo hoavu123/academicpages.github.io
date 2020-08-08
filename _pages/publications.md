@@ -7,7 +7,7 @@ author_profile: true
 
 Authors are in **alphabetical order** per tradition of theoretical computer science.   
 Copyright of each paper belongs to the respective publisher; local copies are for personal use only.  
-Click on paper titles for links to the papers.  
+Click on paper titles for links.  
 
 ## Papers
 
