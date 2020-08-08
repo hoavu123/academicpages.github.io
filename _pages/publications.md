@@ -18,8 +18,8 @@ Authors are in **alphabetical order** per tradition of theoretical computer scie
 * Streaming Algorithms for Maximum Satisfiability **(In submission)**  
   Hoa T. Vu [[local-copy]](/files/streaming-max-sat.pdf)  
 
-* Distributed Dense Subgraph Detection and Low Outdegree Orientation **(DISC 2020)**  
-  Hsin-Hao Su and Hoa T. Vu [[arXiv]](https://arxiv.org/abs/1907.12443)
+* [Distributed Dense Subgraph Detection and Low Outdegree Orientation] (https://arxiv.org/abs/1907.12443) **(DISC 2020)**  
+  Hsin-Hao Su and Hoa T. Vu 
 
 * Distributed Data Summarization in Well-Connected Networks **(DISC 2019)**  
   Hsin-Hao Su and Hoa T. Vu [[conf-version]](/files/disc-2019.pdf) [[arXiv]](https://arxiv.org/abs/1908.00236)  
