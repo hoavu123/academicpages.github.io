@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Authors are in **alphabetical order** per tradition of theoretical computer science.  
+Authors are in **alphabetical order** per tradition of theoretical computer science.   
 Copyright of each paper belongs to the respective publisher; local copies are for personal use only. 
 
 ## Papers
